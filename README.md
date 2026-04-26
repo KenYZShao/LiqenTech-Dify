@@ -1,6 +1,6 @@
 # LiqenTech-Dify
 
-本项目是一个基于 Vite + React 的静态官网克隆，参考了 https://www.jotoai.com/ 的页面结构并增加了中英文多语言支持。
+本项目是一个基于 Vite + React 的静态官网克隆，增加了中英文多语言支持。
 
 ## 安装
 
